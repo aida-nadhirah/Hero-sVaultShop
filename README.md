@@ -5,25 +5,25 @@
 Hero’s Vault Shop is a desktop-based product management system developed using VB.NET and Microsoft Access to support shop operations and inventory management. The system was designed to manage products, customers, staff, orders, and invoices through a database-connected interface.
 
 ## Features
-Product management (Add, Update, Delete, View)
-Customer management
-Staff management
-Order and invoice management
-Database-connected forms for real-time record updates
-User-friendly graphical interface for shop operations
+- Product management (Add, Update, Delete, View)
+- Customer management
+- Staff management
+- Order and invoice management
+- Database-connected forms for real-time record updates
+- User-friendly graphical interface for shop operations
 
 ## Technologies Used
-VB.NET
-Microsoft Access Database
-Visual Studio
+- VB.NET
+- Microsoft Access Database
+- Visual Studio
 
 ## System Modules
-Product Management
-Customer Management
-Staff Management
-Order Management
-Invoice Management
-Screenshots
+- Product Management
+- Customer Management
+- Staff Management
+- Order Management
+- Invoice Management
+- Screenshots
 
 ## User Interface
 
@@ -54,4 +54,4 @@ Screenshots
 Completed academic project developed to strengthen understanding of desktop application development, database connectivity, and system functionality.
 
 ## Author
-## Aida Nadhirah
+Aida Nadhirah
